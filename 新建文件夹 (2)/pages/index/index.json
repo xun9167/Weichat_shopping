@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "SearchInput":"../../components/Search/Search"
+  },
+  "navigationBarTitleText": "勋宝宝的店"
+}
